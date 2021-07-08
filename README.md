@@ -290,8 +290,7 @@ Again, the `learn` command wraps RSpec and provides some default options (namely
 ## Reading RSpec Output
 
 Let's look at the output RSpec gives us (just run `learn` again), and dig into it a bit.
-
-### Test Run Summary
+t Run Summary
 
 ```
 rspec
